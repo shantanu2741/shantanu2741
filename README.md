@@ -1,7 +1,7 @@
 # Hello, I'm Shantanu Khokrale 👋
 
-![Boy with PC](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
+[![Boy with PC](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif)
 
 Welcome to my GitHub profile!
 
