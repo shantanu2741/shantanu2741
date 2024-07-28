@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 - 🌱 **Learning**: Constantly learning and exploring new technologies and improving my skills.
-- 🔭 **Working On**: 
+- 🔭 **Works**: 
   - Final year project: Image Deduplication and Hybrid Cryptography for Secure Storage.
   - Personal projects like Login and Registration system, Vehicle Repairing System, and Amazon Clone.
 - 🤔 **Interests**: Java, web development, database management, and cloud computing.
