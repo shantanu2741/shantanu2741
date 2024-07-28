@@ -12,11 +12,7 @@ I am a disciplined and creative Computer Engineering student with strong program
   - CGPA: 7.6
 
 
-## Skills
-- **Programming Languages**: Java, HTML, CSS
-- **Databases**: MySQL
-- **Frameworks and Tools**: Hibernate, Servlet, JDBC, Java Server Pages (JSP)
-- **Concepts**: Design Patterns (MVC), Object-Oriented Programming, Operating Systems, Database Management Systems
+
 ## Skills
 - **Programming Languages**: 
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
