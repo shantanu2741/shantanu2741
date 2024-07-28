@@ -9,9 +9,9 @@ Welcome to my GitHub profile!
   - Personal projects like Login and Registration system, Vehicle Repairing System, and Amazon Clone.
 - 🤔 **Interests**: Java, web development, database management, and cloud computing.
 - 📫 **How to reach me**:
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-khokrale-407503232)
-  - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/shantanu2741)
-  - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shantanukhokrale14@gmail.com)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-khokrale-407503232)
+   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/shantanu2741)
+   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shantanukhokrale14@gmail.com)
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
