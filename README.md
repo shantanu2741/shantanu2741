@@ -1,6 +1,7 @@
-![Boy with PC](https://media.giphy.com/media/1AjFxdeT7qBEy4WEiG/giphy.gif)
-
 # Hello, I'm Shantanu Khokrale 👋
+
+![Boy with PC](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
 Welcome to my GitHub profile!
 
