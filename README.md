@@ -8,10 +8,7 @@ Welcome to my GitHub profile!
   - Final year project: Image Deduplication and Hybrid Cryptography for Secure Storage.
   - Personal projects like Login and Registration system, Vehicle Repairing System, and Amazon Clone.
 - 🤔 **Interests**: Java, web development, database management, and cloud computing.
-- 📫 **How to reach me**:
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-khokrale-407503232)
-   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/shantanu2741)
-   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shantanukhokrale14@gmail.com)
+  
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -23,6 +20,11 @@ Welcome to my GitHub profile!
  ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
  ![JSP](https://img.shields.io/badge/JSP-4285F4?style=for-the-badge&logo=java&logoColor=white)
 
+
+## Connect with Me
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-khokrale-407503232)
+   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/shantanu2741)
+   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shantanukhokrale14@gmail.com)
   - ## Education
 - **Bachelors of Technology in CSE**
   - Nutan College Of Engineering And Research, Talegaon
@@ -36,9 +38,7 @@ Welcome to my GitHub profile!
   - February 2024 – March 2024
   - Learnt fundamentals of core Java at Coding Raja Technologies.
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/shantanu-khokrale-407503232)
-- [GitHub](https://github.com/shantanu2741)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shantanu2741&style=flat-square)
 
