@@ -1,8 +1,5 @@
 # Hello, I'm Shantanu Khokrale 👋
 
-[![Boy with PC](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif)
-
 Welcome to my GitHub profile!
 
 ## About Me
@@ -17,14 +14,14 @@ Welcome to my GitHub profile!
   - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shantanukhokrale14@gmail.com)
 
 ## Skills
- - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  - ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-  - ![Servlet](https://img.shields.io/badge/Servlet-4EA94B?style=for-the-badge&logo=java&logoColor=white)
-  - ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
-  - ![JSP](https://img.shields.io/badge/JSP-4285F4?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-4EA94B?style=for-the-badge&logo=java&logoColor=white)
+ ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
+ ![JSP](https://img.shields.io/badge/JSP-4285F4?style=for-the-badge&logo=java&logoColor=white)
 
   - ## Education
 - **Bachelors of Technology in CSE**
