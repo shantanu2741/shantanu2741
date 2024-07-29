@@ -1,7 +1,7 @@
 # Hello, I'm Shantanu Khokrale 👋
 <img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## Welcome to my GitHub profile!
+## Welcome to my GitHub profile!🌟
 
 ## About Me
 - 🌱 **Learning**: Constantly learning and exploring new technologies and improving my skills.
@@ -26,7 +26,7 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-khokrale-407503232)
    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/shantanu2741)
    [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shantanukhokrale14@gmail.com)
-  - ## Education
+  - ## 📚  Education
 - **Bachelors of Technology in CSE**
   - Nutan College Of Engineering And Research, Talegaon
   - Dec 2021 – July 2024
@@ -34,7 +34,7 @@
 
 
 
-## Experience - Internships
+##💼 Experience - Internships
 - **Core Java Intern at Coding Raja Technologies (Remote)**
   - February 2024 – March 2024
   - Learnt fundamentals of core Java at Coding Raja Technologies.
