@@ -34,7 +34,7 @@
 
 
 
-##💼 Experience - Internships
+##  💼 Experience - Internships
 - **Core Java Intern at Coding Raja Technologies (Remote)**
   - February 2024 – March 2024
   - Learnt fundamentals of core Java at Coding Raja Technologies.
