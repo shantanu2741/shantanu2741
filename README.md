@@ -21,9 +21,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-4EA94B?style=for-the-badge&logo=java&logoColor=white)
  ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
- ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
  ![JSP](https://img.shields.io/badge/JSP-4285F4?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 
 
 ## Connect with Me
