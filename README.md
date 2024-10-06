@@ -3,7 +3,7 @@
 
 ## Welcome to my GitHub profile!🌟
 
-## About Me
+## About Me 
 - 🌱 **Learning**: Constantly learning and exploring new technologies and improving my skills.
 - 🔭 **Works**: 
   - Final year project: Image Deduplication and Hybrid Cryptography for Secure Storage.
