@@ -1,6 +1,6 @@
 # Hello, I'm Shantanu Khokrale 👋
 <img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- 
+  
 ## Welcome to my GitHub profile!🌟  
 
 ## About Me 
