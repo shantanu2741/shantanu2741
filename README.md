@@ -8,12 +8,12 @@
 - 🔭 **Works**: 
   - Final year project: Image Deduplication and Hybrid Cryptography for Secure Storage.
   - Personal projects like Login and Registration system, Vehicle Repairing System, and Amazon Clone.
-- 🤔 **Interests**: Java, web development, database management, and cloud computing.
+- 🤔 **Interests**: Java, Ruby on Rails and Backend Development.
   
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,9 +43,9 @@
 
 
 ##  💼 Experience - Internships
-- **Java Intern at Coding Raja Technologies (Remote)**
-  - February 2024 – March 2024
-  - Learnt fundamentals of Java at Coding Raja Technologies.
+- **Java Intern at Hulkhire (Remote)**
+  - November 2024 – December 2024
+  - Worked on payment system for e-commerce application.
 
 
 
