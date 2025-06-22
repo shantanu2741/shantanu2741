@@ -7,7 +7,7 @@
 - 🌱 **Learning**: Constantly learning and exploring new technologies and improving my skills.
 - 🔭 **Works**: 
   - Final year project: Image Deduplication and Hybrid Cryptography for Secure Storage.
-  - Personal projects like Login and Registration system, Vehicle Repairing System, and Amazon Clone.
+  - Personal projects like Food-Menu-Booking-Application using ruby on rails, Login and Registration system, Vehicle Repairing System, and Amazon Clone.
 - 🤔 **Interests**: Java, Ruby on Rails and Backend Development.
   
 
